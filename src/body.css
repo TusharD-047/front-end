@@ -32,3 +32,8 @@ button{
     border: none;
     border-radius: 8px;
 }
+
+.left_right{
+    display: flex;
+    justify-content: space-between;
+}
